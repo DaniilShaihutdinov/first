@@ -9,3 +9,11 @@
 ```
 A plain code block 
 ```
+**bold text**
+*italic text*
+`Monospaced text (e.g., code)`
+~~striked text~~
+superscript^[s2]
+
+An inline equation, E=mc2.
+An equation block (below) 
