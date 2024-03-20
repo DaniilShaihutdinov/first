@@ -17,7 +17,7 @@ A plain code block
 
 ~~striked text~~
 
-superscript^s2
+superscript <sup> s2
 
 An inline equation, $E=mc^2$.
 An equation block (below) 
@@ -48,11 +48,11 @@ An ordered list:
 
 A table:
 
-| Header 1                                             Header 2 |
-|---------------------------------------------------------------|
-| Cell 1                                               Cell 2   |
-| Cell 3                                               Cell 4   |
-
+**Header 1**                                  **Header 2** 
+---
+Cell 1                                           Cell 2   
+---
+Cell 3                                           Cell 4   
 
 
 
